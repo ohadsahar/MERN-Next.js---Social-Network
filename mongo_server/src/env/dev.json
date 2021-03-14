@@ -1,0 +1,26 @@
+{
+  "name": "dev",
+  "synchronize": true,
+  "production": false,
+  "dropSchema": false,
+  "logging": false,
+  "port": 3000,
+  "logger": "tiny",
+  "dbHost": "mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/social?retryWrites=true&w=majority",
+  "dbPort": 5432,
+  "dbUser": "postgres",
+  "dbPass": "Flower123",
+  "dbName": "todo",
+  "serverUrl": "",
+  "appName": "FullStack Developers Social NetWork",
+  "smsAuth": {
+    "key": "",
+    "token": ""
+  },
+  "awsAuth": {
+    "accessKeyId": "",
+    "secretAccessKey": ""
+  },
+  "bucketName": "todo-app"
+}
+
